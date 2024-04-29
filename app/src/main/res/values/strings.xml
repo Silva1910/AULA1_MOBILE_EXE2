@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppFirst</string>
+    <string name="etA">DIGITE VALOR DE A</string>
+    <string name="etB">DIGITE VALOR DE B</string>
+    <string name="etC">DIGITE VALOR DE C</string>
+    <string name="finalCalc">finalCalc</string>
+    <string name="calcular">calcular</string>
+
+</resources>
